@@ -1,0 +1,46 @@
+/* Google Fonts Style Import for Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Universal Selector */
+* {
+    box-sizing: border-box;
+}
+
+
+
+/* Tag Selectors */
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+
+
+/* Class Selectors */ 
+
+
+
+
+
+/* Tag Selectors */
+
+
+
+
+
+
+/* Media Queries */ 
+
+
+
+
+
+/* KeyFrames */
+
